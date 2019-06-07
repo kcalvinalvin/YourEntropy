@@ -1,0 +1,3 @@
+AC_INIT([YourEntropy], [0.01])
+AC_PROG_CXX
+AC_OUTPUT
