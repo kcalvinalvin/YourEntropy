@@ -8,7 +8,7 @@
 #include <iomanip>
 
 #include "yourentropyutils/convert.h"
-#include "bitcoin/src/crypto/sha512.h"
+#include "crypto/sha512.h"
 
 std::string SHA512(std::string string);
 
